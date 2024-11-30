@@ -1,6 +1,9 @@
 # Task Management App
-
 A simple and efficient Task Management Application built with React. This app allows users to create, update, view, and delete tasks. It includes features like task filtering and search functionality.
+
+## Deployment
+The application is live and hosted on **Netlify**. You can view and use the application here:
+[Task Management Application](https://taskmanagement1206.netlify.app/)
 
 ## Features
 
